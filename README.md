@@ -2,7 +2,7 @@
 
 ## What it does
    
-    This is fintech and web 3.0 website is used for transfer ETH coin from one repo to another.
+    This is a fintech and a Web 3.0 website is used for transfer ETH coin from one repo to another.
 
 
 ## 🚀 Features
