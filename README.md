@@ -13,7 +13,7 @@ In our country nearly 50,000 people are involved in digital trading, but mostly 
 Creating a good UI that can be easily understandable by the users is a challenging task. Storing a lot of data and maintaining it is also one of the challenging task.
 
 #### Thank You
-<h3>Team IIT Khidirpur</h3>
+<h3>Team IIT Khidirpur:</h3>
 - <h3>Apurv Jha</h3>
 <h align="left">Connect with me:</h>
 <a href="https://twitter.com/apurvjh67211159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="apurvjh67211159" height="30" width="40" /></a>
